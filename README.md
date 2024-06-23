@@ -10,6 +10,7 @@
 - ✍️ I also enjoy writing stories and shayries.
 
 📫 How to reach me: email- saumya211008@gmail.com
+LinkedIn https://www.linkedin.com/in/saumya-jaiswal-39a31524a
   
 
 <!---
