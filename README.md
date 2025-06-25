@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Saumya Jaiswal!
 
-- 💻 **Android App Developer** skilled in C, Java, and Python.
-- 🌱 Currently learning Data Analytics and Cybersecurity.
+- 💻 **Full Syack Developer** skilled in C anc java .
+- 🌱 Interested in blockchain and cloud computing.
 - 🔭 Completed one minor and one major project:
   - **Minor Project:** Rock Paper Scissors Game
   - **Major Project:** Rescue Assistant for Accident Victims
