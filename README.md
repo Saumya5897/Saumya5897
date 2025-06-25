@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Saumya Jaiswal!
 
-- 💻 **Full Syack Developer** skilled in C anc java .
+- 💻 **Full Stack Developer** skilled in C anc java .
 - 🌱 Interested in blockchain and cloud computing.
 - 🔭 Completed one minor and one major project:
   - **Minor Project:** Rock Paper Scissors Game
